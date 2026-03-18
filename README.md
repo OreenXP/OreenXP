@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/bhC8X-tsTK4AAAAi/tspchan1-lick.gi" width="380" alt="coding gif"/>
+
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+OreenXP+%F0%9F%91%BE;Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
