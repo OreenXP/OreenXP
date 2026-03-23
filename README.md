@@ -1,7 +1,7 @@
 <div align="center">
-
+  <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
   <img src="WhatsApp Image 2026-03-17 at 9.20.16 PM-Photoroom.png" width="100">
-
+ 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+OreenXP+%F0%9F%91%BE;Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
@@ -21,7 +21,7 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   
 - **ORM**:
-- 
+  
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   
 - **Software**:
@@ -36,7 +36,7 @@
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
 - **Hardware**:
-- 
+  
   ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
   ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Logitech](https://img.shields.io/badge/logitech-white?style=for-the-badge&logo=logitech&logoColor=black)
