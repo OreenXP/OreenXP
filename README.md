@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/Ricardo-Castro-Gastelum/Ricardo-Castro-Gastelum/blob/main/Logo-GSC.png?raw=true" width="100">
+  <img src="WhatsApp Image 2026-03-17 at 9.20.16 PM-Photoroom.png" width="100">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+OreenXP+%F0%9F%91%BE;Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
